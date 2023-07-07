@@ -1,0 +1,10 @@
+App\Entity\AccionObjetivo:
+  attributes:
+    id:
+      groups: []
+
+    accion:
+      groups: ['get_acciones_objetivos']
+
+    objetivo:
+      groups: ['get_acciones_objetivos']

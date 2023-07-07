@@ -1,0 +1,10 @@
+App\Entity\Descriptores:
+  attributes:
+    id:
+      groups: []
+
+    descriptor1:
+      groups: ['get_descriptores']
+
+    descriptor2:
+      groups: ['get_descriptores']

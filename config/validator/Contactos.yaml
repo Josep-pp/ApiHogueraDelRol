@@ -1,0 +1,8 @@
+App\Entity\Contactos:
+  properties:
+    nombre:
+      - NotBlank: ~
+    email:
+      - NotBlank: ~
+    asunto:
+      - NotBlank: ~
